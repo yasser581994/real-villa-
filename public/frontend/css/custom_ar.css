@@ -1,0 +1,7 @@
+body,h1,h2,h3,h4,h5,h6{font-family: 'Cairo', sans-serif !important;}
+body,html,ul,li,div,span,p,u,b{ direction:rtl; text-align:right !important; }
+.owl-carousel,.owl-carousel div,.owl-carousel span { direction: ltr; }
+.section-title p{ text-align: center ; }
+.copyright p{ text-align: left !important; }
+.owl-carousel .owl-nav .owl-prev{ right: 0px !important; }
+.text-center,.text-center p{ text-align: center !important; }

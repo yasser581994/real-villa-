@@ -1,0 +1,9 @@
+.space-ptb{ padding:20px 0;  }
+.hidden{ display: none !important; visibility: hidden !important; }
+.price span{ font-size: 12px; color: #ccc;	 }
+.property-detail-img .item{height: 400px; background-repeat: no-repeat; background-position: center; background-size: contain;}
+.property-detail-img .item a{width: 100% !important; height: 100%;  display: inline-block; }
+.top-20{ margin-top:20px; }
+.property-offer-image{background-repeat: no-repeat !important; background-position: center!important; background-size: cover !important;}
+.space-ptb{ padding: 20px 0  !important; }
+.property-image{height: 250px; background-size: cover; background-repeat: no-repeat; background-position: center;}
